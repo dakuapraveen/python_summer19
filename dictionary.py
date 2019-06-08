@@ -1,0 +1,11 @@
+stu={1:'praveen',2:'kumar',3:'dakua'}
+print(stu)
+print(stu[2])
+stu[4]='prav'
+stu['five']='gfds'
+print(stu.keys())
+print(stu.values())
+print(stu.get(3))
+print(stu.pop(1))
+print(stu.popitem())
+print(stu.items())
